@@ -59,7 +59,7 @@ jobs:
       run: |
          mkdir -p apk-files/debug apk-files/release
          
-         ls ${{ github.workspace }}/app/build/outputs/
+         ls ${{ github.workspace }}/app/build/outputs/apk/
          
 
     
