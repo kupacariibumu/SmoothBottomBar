@@ -12,7 +12,6 @@ on:
       - master
       - qa
 
-workflow_dispatch:
 
 env:
   AWS_DEFAULT_REGION: "ap-south-1"
